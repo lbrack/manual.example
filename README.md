@@ -4,7 +4,7 @@ There are 2 sample Specs (files):
   * hello-test.md  - simple example
   * live-demo-test.md - used for testing our demo - https://demo.testspace.com 
 
-To use this sample refer to the Manual [Getting Started](https://help.testspace.com/manual:get-started) article for details:
+To use this sample refer to the Manual [Overview](https://help.testspace.com/manual:overview) help article for details:
 
   * Sign Up for Testspace
   * Fork this Repo
